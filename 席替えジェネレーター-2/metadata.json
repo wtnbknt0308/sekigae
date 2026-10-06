@@ -1,6 +1,0 @@
-{
-  "name": "班編成＆席替えジェネレーター",
-  "description": "先生専用のゼロ設定（生徒情報一括登録、ペア制限、位置希望）をもとに、生徒向け画面で班編成と席替え（市松模様、フリック空席調整、5秒カウントダウン自動生成）をスムーズに行えるジェネレーターです。",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
